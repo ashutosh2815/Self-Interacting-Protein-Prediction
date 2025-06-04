@@ -59,7 +59,7 @@ Clone the repository.
 
 Make sure the required files (aa_phy7.txt, BLOSUM matrix) are in the appropriate directory.
 
-Open Final_SIP_Proj.ipynb in Jupyter or Google Colab.
+Open Self_Interacting_Protein.ipynb in Jupyter or Google Colab.
 
 Install dependencies:
 

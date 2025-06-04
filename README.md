@@ -36,7 +36,7 @@ aa_phy7.txt — Contains AAPHY7 physicochemical feature vectors
 
 blosum62.txt — Substitution matrix file used for encoding
 
-protein_sequences.txt — Dataset of protein sequences (assumed)
+final_human_df.csv — Dataset of protein sequences
 
 🧪 Methods
 Encoding: Protein sequences are transformed into numerical vectors using BLOSUM62 and AAPHY7 matrices.
@@ -51,7 +51,6 @@ SVM (Support Vector Machine)
 
 Random Forest
 
-KNN (with Leave-One-Out CV)
 
 Random Projection Ensemble Classifier (custom)
 
